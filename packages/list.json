@@ -1,0 +1,58 @@
+[
+  {
+    "compName": "ElsElem",
+    "compZhName": "抽象元素",
+    "compDesc": "抽象数据渲染",
+    "compClassName": "els-elem",
+    "compPath": "packages/components/ElsElem"
+  },
+  {
+    "compName": "ElsForm",
+    "compZhName": "抽象表单",
+    "compDesc": "利用纯数据渲染表单",
+    "compClassName": "els-form",
+    "compPath": "packages/components/ElsForm"
+  },
+  {
+    "compName": "ElsExpBox",
+    "compZhName": "表达式编辑容器",
+    "compDesc": "用来编辑或者展示表达式的组件",
+    "compClassName": "els-exp-box",
+    "compPath": "packages/components/ElsExpBox"
+  },
+  {
+    "compName": "ElsPage",
+    "compZhName": "抽象页面",
+    "compDesc": "利用抽象数据渲染整个页面",
+    "compClassName": "els-page",
+    "compPath": "packages/components/ElsPage"
+  },
+  {
+    "compName": "ElsMenu",
+    "compZhName": "抽象菜单",
+    "compDesc": "支持数据渲染菜单，并支持模板，插槽和自定义回调事件",
+    "compClassName": "els-menu",
+    "compPath": "packages/components/ElsMenu"
+  },
+  {
+    "compName": "ElsSvg",
+    "compZhName": "矢量图标",
+    "compDesc": "svg 图标组件",
+    "compClassName": "els-svg",
+    "compPath": "packages/components/ElsSvg"
+  },
+  {
+    "compName": "ElsTest",
+    "compZhName": "测试生成命令",
+    "compDesc": "默认：这是一个新组件",
+    "compClassName": "els-test",
+    "compPath": "packages/components/ElsTest"
+  },
+  {
+    "compName": "ElsCron",
+    "compZhName": "CRON 表达式生成器",
+    "compDesc": "CRON 表达式生成器表单插件，支持生成，回显，双向绑定，自定义表单布局",
+    "compClassName": "els-cron",
+    "compPath": "packages/components/ElsCron"
+  }
+]
